@@ -1,0 +1,30 @@
+- Name: Sungmin Moon
+
+- Role: Lead Designer
+
+- Main Contributions: Level Designs, Menu, Tutorials
+
+- List files in which you worked:
+Credits.cpp
+HowToPlay1.cpp
+HowToPlay2.cpp
+Level7.cpp
+Level8.cpp
+MainMenu.cpp
+SplashScreen.cpp
+Tutorial.cpp
+
+- Personal Notes(optional):
+I learnt a lot during this semester's team project.
+
+First, it is hard to design a successful gameplay, and even if gameplay design is done, level designs are real trouble.
+I feel like our game still needs more levels, but couldn't make them on time in most of the cases.
+
+Next, lacking a lot on programming skills is a problem, but doesn't mean I cannot do anything.
+Compared to my teammates, my work on implementing and programming is quite underwhelming.
+Of course, this is a problem I need to solve, but I still can be helpful if I work hard enough.
+
+Last, I need more active communication and suggestions when designing.
+This was the first time I actually worked as a designer, and I realized how much I lack on creativity, and
+never felt satisfaction about my work.
+I need more ideas, and more opinions about what I'm working on, and manage my problems with other people.

@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Application.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>States\MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseState.cpp">
+      <Filter>States\Pause</Filter>
+    </ClCompile>
+    <ClCompile Include="Level_Test.cpp">
+      <Filter>States\Level_Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Class\Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Platform.cpp">
+      <Filter>Class\Object\Platform</Filter>
+    </ClCompile>
+    <ClCompile Include="Gun.cpp">
+      <Filter>Class\Object\Player\Gun</Filter>
+    </ClCompile>
+    <ClCompile Include="MouseUtility.cpp">
+      <Filter>Class\Object\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Class\Object\Player\Gun\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorChangePlatform.cpp">
+      <Filter>Class\Object\Platform\ColorChangePlatform</Filter>
+    </ClCompile>
+    <ClCompile Include="Color.cpp">
+      <Filter>Class\Object\Utility\Color</Filter>
+    </ClCompile>
+    <ClCompile Include="Destination.cpp">
+      <Filter>Class\Object\Destination</Filter>
+    </ClCompile>
+    <ClCompile Include="Level2.cpp">
+      <Filter>States\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="Level5.cpp">
+      <Filter>States\Level5</Filter>
+    </ClCompile>
+    <ClCompile Include="Level6.cpp">
+      <Filter>States\Level6</Filter>
+    </ClCompile>
+    <ClCompile Include="Paint.cpp">
+      <Filter>Class\Paint</Filter>
+    </ClCompile>
+    <ClCompile Include="PaintBall.cpp">
+      <Filter>Class\Paint\PaintBall</Filter>
+    </ClCompile>
+    <ClCompile Include="PlatformControl.cpp">
+      <Filter>Class\PlatformControl</Filter>
+    </ClCompile>
+    <ClCompile Include="Tutorial.cpp">
+      <Filter>States\Tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="HowToPlay1.cpp">
+      <Filter>States\HowToPlay1</Filter>
+    </ClCompile>
+    <ClCompile Include="HowToPlay2.cpp">
+      <Filter>States\HowToPlay2</Filter>
+    </ClCompile>
+    <ClCompile Include="Level7.cpp">
+      <Filter>States\Level7</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseMenu.cpp">
+      <Filter>Class\PauseMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Class\PauseMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Helper.cpp">
+      <Filter>Class\Object\Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="Clear_Level.cpp">
+      <Filter>States\Clear_Level</Filter>
+    </ClCompile>
+    <ClCompile Include="SplashScreen.cpp">
+      <Filter>States\SplashScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="Credits.cpp">
+      <Filter>States\Credits</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundControl.cpp">
+      <Filter>Class\SoundControl</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1.cpp">
+      <Filter>States\Level1</Filter>
+    </ClCompile>
+    <ClCompile Include="Level4.cpp">
+      <Filter>States\Level4</Filter>
+    </ClCompile>
+    <ClCompile Include="Level3.cpp">
+      <Filter>States\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="Level8.cpp">
+      <Filter>States\Level8</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonLevel.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>States\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseState.h">
+      <Filter>States\Pause</Filter>
+    </ClInclude>
+    <ClInclude Include="Level_Test.h">
+      <Filter>States\Level_Test</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Class\Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Platform.h">
+      <Filter>Class\Object\Platform</Filter>
+    </ClInclude>
+    <ClInclude Include="Gun.h">
+      <Filter>Class\Object\Player\Gun</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Class\Object\Player\Gun\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="MouseUtility.h">
+      <Filter>Class\Object\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorChangePlatform.h">
+      <Filter>Class\Object\Platform\ColorChangePlatform</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Class\Object\Utility\Color</Filter>
+    </ClInclude>
+    <ClInclude Include="Destination.h">
+      <Filter>Class\Object\Destination</Filter>
+    </ClInclude>
+    <ClInclude Include="Level2.h">
+      <Filter>States\Level2</Filter>
+    </ClInclude>
+    <ClInclude Include="Level5.h">
+      <Filter>States\Level5</Filter>
+    </ClInclude>
+    <ClInclude Include="Level6.h">
+      <Filter>States\Level6</Filter>
+    </ClInclude>
+    <ClInclude Include="Paint.h">
+      <Filter>Class\Paint</Filter>
+    </ClInclude>
+    <ClInclude Include="PaintBall.h">
+      <Filter>Class\Paint\PaintBall</Filter>
+    </ClInclude>
+    <ClInclude Include="PlatformControl.h">
+      <Filter>Class\PlatformControl</Filter>
+    </ClInclude>
+    <ClInclude Include="Tutorial.h">
+      <Filter>States\Tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="HowToPlay1.h">
+      <Filter>States\HowToPlay1</Filter>
+    </ClInclude>
+    <ClInclude Include="HowToPlay2.h">
+      <Filter>States\HowToPlay2</Filter>
+    </ClInclude>
+    <ClInclude Include="Level7.h">
+      <Filter>States\Level7</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseMenu.h">
+      <Filter>Class\PauseMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Class\PauseMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="Helper.h">
+      <Filter>Class\Object\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="Clear_Level.h">
+      <Filter>States\Clear_Level</Filter>
+    </ClInclude>
+    <ClInclude Include="SplashScreen.h">
+      <Filter>States\SplashScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="Credits.h">
+      <Filter>States\Credits</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundControl.h">
+      <Filter>Class\SoundControl</Filter>
+    </ClInclude>
+    <ClInclude Include="Level1.h">
+      <Filter>States\Level1</Filter>
+    </ClInclude>
+    <ClInclude Include="Level4.h">
+      <Filter>States\Level4</Filter>
+    </ClInclude>
+    <ClInclude Include="Level3.h">
+      <Filter>States\Level3</Filter>
+    </ClInclude>
+    <ClInclude Include="Level8.h">
+      <Filter>States\Level8</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Game">
+      <UniqueIdentifier>{a4c61a45-6f83-4081-bec3-091c42be4108}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App">
+      <UniqueIdentifier>{d3751412-3ba4-4576-8c36-adfa7ed352d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States">
+      <UniqueIdentifier>{42c6271b-7032-405d-a083-7e1855c12c63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\MainMenu">
+      <UniqueIdentifier>{1fee0eee-5a70-4de5-a63f-1c226a69796d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Pause">
+      <UniqueIdentifier>{7e8d7d18-2caf-4dce-9009-49d3b89e2115}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Level_Test">
+      <UniqueIdentifier>{77e267dc-b409-4fb4-81a8-67de66dab769}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class">
+      <UniqueIdentifier>{8e6ad3a4-a545-409d-a1d0-a29fb26c1b49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Object">
+      <UniqueIdentifier>{96e3fc6b-aacf-4bed-a387-d5182a5b1ea9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Object\Player">
+      <UniqueIdentifier>{f7956c9e-f626-47df-84d8-c4f17588cc98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Object\Player\Gun">
+      <UniqueIdentifier>{9529d726-1b65-4fc4-828b-42569a8a6356}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Object\Player\Gun\Bullet">
+      <UniqueIdentifier>{ecfc28df-ed57-4fc9-b497-e04462ab4925}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Object\Platform">
+      <UniqueIdentifier>{4dbf1d63-68a8-4470-b063-96fbd69cb7c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Object\Platform\ColorChangePlatform">
+      <UniqueIdentifier>{6bfae083-a9fc-48d3-8108-1083bfc687d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Object\Utility">
+      <UniqueIdentifier>{90a4cb1b-eb35-4393-8d70-b2f8c1d19b0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Object\Utility\Color">
+      <UniqueIdentifier>{a0a04378-676f-47e0-9538-1f38e8239b68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Object\Destination">
+      <UniqueIdentifier>{ac22f803-d2f1-4b9c-b536-d222e78af145}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Level2">
+      <UniqueIdentifier>{73334df3-8717-49bc-84c7-d78ce780ad30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Level5">
+      <UniqueIdentifier>{b521a1bc-247b-4c8e-81af-4d91617b7e08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Level6">
+      <UniqueIdentifier>{1c87d8bb-aa3c-4f6a-98e9-da27332a8fbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Paint">
+      <UniqueIdentifier>{285d96bf-d87a-4e08-bc42-9b059d45a702}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Paint\PaintBall">
+      <UniqueIdentifier>{f78e5096-d74a-42d6-9615-ca6b0ba1d69c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\PlatformControl">
+      <UniqueIdentifier>{ea37f44f-9c0c-46cd-b36b-2eb1257f0493}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Tutorial">
+      <UniqueIdentifier>{7dedac20-e6f7-444e-be41-86d2fecd9797}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\HowToPlay1">
+      <UniqueIdentifier>{badcdfee-f19b-49ef-89ea-73c3424784c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\HowToPlay2">
+      <UniqueIdentifier>{406427c7-3d8b-4668-8864-6f5ecd593855}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Level7">
+      <UniqueIdentifier>{0d33e576-70be-417b-b1ea-8ce36459cac3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\PauseMenu">
+      <UniqueIdentifier>{626bd2c7-1760-4652-bd64-a86c5704430c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Object\Helper">
+      <UniqueIdentifier>{da12ff23-4c8b-4494-a929-5d381b0248b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Clear_Level">
+      <UniqueIdentifier>{5e348341-c510-4447-93e9-d8ee10bd5d5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\SplashScreen">
+      <UniqueIdentifier>{d1814b82-210a-4657-a08c-f476663d2a97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Credits">
+      <UniqueIdentifier>{7b24f891-3d8e-4825-9620-7008bb5212a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\SoundControl">
+      <UniqueIdentifier>{1173317e-3ff9-4e4c-ac4e-bdff1b74c4fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Level4">
+      <UniqueIdentifier>{6f7e7360-a1d7-41ce-8234-2c2de3d8b952}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Level1">
+      <UniqueIdentifier>{82461287-e7d0-4799-ad7a-18e6cf278478}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Level3">
+      <UniqueIdentifier>{be8a3e1a-8d9f-4197-90a4-c8a01a635ac6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Level8">
+      <UniqueIdentifier>{ae1b67f4-5af3-4773-aed4-ca9952b7e623}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

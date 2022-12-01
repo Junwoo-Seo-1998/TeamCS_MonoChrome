@@ -1,0 +1,32 @@
+-Name: 
+	ChunMook Kim
+
+-Role: 
+	Producer
+
+-Main contributions: 
+	Implement Game rule and mechanism
+	Debugging
+	Sound 
+
+-List files in which you worked 
+	PlatformControl.cpp
+	Level1.cpp
+	Level2.cpp
+	Level3.cpp
+	Level4.cpp
+	Level5.cpp
+	Level6.cpp
+	Helper.cpp
+	Clear_Level.cpp
+	Destination.cpp
+	SounndControl.cpp
+
+-Personal notes (optional):
+By this project, I learn two things.
+
+First, if there are person who do not have will about project,
+that person is not be better than nothing
+
+Second, even though team members have a large gap in ability, 
+it is possible to distribute reasonable work.

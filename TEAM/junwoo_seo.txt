@@ -1,0 +1,39 @@
+Name:junwoo.seo
+
+Role: Tech-director
+
+Main contributions:
+Game structure,
+Animation,
+Art,
+Sound,
+Player character,
+Game objects
+
+List files in which you worked:
+Player.cpp
+Bullet.cpp
+Gun.cpp
+Button.cpp
+Paint.cpp
+Level_Test.cpp
+PaintBall.cpp
+ColorChangePlatform.cpp
+PauseMenu.cpp
+Platform.cpp
+MouseUtility.cpp
+PauseState.cpp
+Color.cpp
+paint.png
+player.png
+newrunning.png
+newrun.png
+run.png
+running.png
+gun.png
+playerexample.png
+
+Personal notes (optional):
+i liked that i could learn how engine flow works
+i could not make this game if there was not my teammates
+i really want to thank for their effort
